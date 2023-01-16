@@ -1,0 +1,59 @@
+.expeneseItemList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(99, 88, 88);
+  width: 1040px;
+  height: 130px;
+  margin-left: 180px;
+  border-radius: 10px;
+  margin-top: 300px;
+  margin-bottom: -290px;
+}
+.date {
+  font-size: 1.5rem;
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(123, 111, 111);
+  width: 61px;
+  height: 100px;
+  margin-left: 20px;
+  margin: 8px 5px 2px 20px;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #ffffff;
+}
+.inputValue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dateAndTitle {
+  margin-top: -1px;
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-family: monospace;
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 20px;
+}
+.price {
+  color: aliceblue;
+  font-size: 1.5rem;
+}
+.priceSom {
+  border-style: dotted;
+  border-color: aliceblue;
+  border-radius: 10px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: blueviolet;
+  width: 150px;
+  height: 60px;
+  margin-right: 20px;
+}
