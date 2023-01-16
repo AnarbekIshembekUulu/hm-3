@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AnarbekIshembekUulu/hm-3/static/css/main.d0e4da70.css",
-    "main.js": "/AnarbekIshembekUulu/hm-3/static/js/main.be14a6a7.js",
-    "index.html": "/AnarbekIshembekUulu/hm-3/index.html",
-    "main.d0e4da70.css.map": "/AnarbekIshembekUulu/hm-3/static/css/main.d0e4da70.css.map",
-    "main.be14a6a7.js.map": "/AnarbekIshembekUulu/hm-3/static/js/main.be14a6a7.js.map"
+    "main.css": "/hm-3/static/css/main.d0e4da70.css",
+    "main.js": "/hm-3/static/js/main.be14a6a7.js",
+    "index.html": "/hm-3/index.html",
+    "main.d0e4da70.css.map": "/hm-3/static/css/main.d0e4da70.css.map",
+    "main.be14a6a7.js.map": "/hm-3/static/js/main.be14a6a7.js.map"
   },
   "entrypoints": [
     "static/css/main.d0e4da70.css",
